@@ -1,0 +1,44 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:1000px;
+  height:500px;
+  margin:auto;
+  border:1px solid black;
+  
+}
+
+.stripe {
+    width:33.33%;
+    height:100%;
+    float:right;
+}
+
+.red {
+    background:#CC092F	;
+ 
+}
+
+.white {
+    background:#FFD200	;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Coat_of_arms_of_Moldova.svg/800px-Coat_of_arms_of_Moldova.svg.png);
+    background-position: center;
+    background-size: 250px;
+    background-repeat: no-repeat;
+   
+
+
+    
+}
+.blue {
+    background:#0046AE;
+    
+}
+
