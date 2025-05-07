@@ -1,0 +1,42 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:1200px;
+  height:600px;
+  margin:auto;
+  border:1px solid black;
+}
+
+.stripe {
+    width:33.33%;
+    height:600px;
+}
+
+.red {
+    background:#D80621;
+    float:left;
+    height:600px;
+    width:33.33%;
+}
+
+.white {
+    background:#FFFFFF;
+    float:left;
+    height:600px;
+    width:33.33%;
+    background-image:url(leaf.svg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:350px;
+
+}
+
+
+
