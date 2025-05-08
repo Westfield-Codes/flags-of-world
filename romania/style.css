@@ -1,0 +1,38 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width: 600px;
+  height:400px;
+  margin:auto; 
+  border:1px solid black;
+ 
+}
+
+#romania .stripe {
+    height:100%; 
+    width:33.33%;
+    float: left;
+}
+ 
+
+.blue {
+    background: #002B7F;
+ 
+}
+
+.yellow{
+    background:#FCD116;
+    
+   
+}
+.red{
+    background:#CE1126;
+}
+
