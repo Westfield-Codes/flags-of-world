@@ -1,0 +1,41 @@
+header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:800px;
+  height:800px;
+  margin:auto;
+  border:1px solid black;
+  
+}
+
+.stripe {
+    width:50%;
+    height:100%;
+    float:right;
+}
+
+.red {
+    background:white;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_the_Papal_States_%281803-1825%29.svg/1280px-Flag_of_the_Papal_States_%281803-1825%29.svg.png);
+    background-position: center;
+    background-size: 900px;
+    background-repeat: no-repeat;
+    
+ 
+}
+
+.white {
+    background-color:#FFF200;
+ 
+    }
+   
+
+
+
