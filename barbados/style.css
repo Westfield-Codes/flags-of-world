@@ -1,0 +1,36 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:900px;
+  height:600px;
+  margin:auto;
+  border:1px solid black;
+}
+
+
+.stripe {
+    float: left;
+    width:33.3%;
+    height:100%;
+}
+
+
+
+.middle {
+    background-color:#FFC726;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Barbados_trident.svg/800px-Barbados_trident.svg.png);
+    background-size: 270px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.blue {
+    background-color:#00267F;
+}
