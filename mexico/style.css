@@ -1,0 +1,40 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:900px;
+  height:600px;
+  margin:auto;
+  border:1px solid black;
+}
+
+
+.stripe {
+    float: left;
+    width:33.3%;
+    height:100%;
+}
+
+
+
+.middle {
+    background-color:white;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/1024px-Coat_of_arms_of_Mexico.svg.png);
+    background-size: 225px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.green {
+    background-color:#006847;
+}
+
+.red {
+    background-color: #CE1126;
+}
